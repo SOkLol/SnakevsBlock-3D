@@ -29,13 +29,9 @@ public class Block : MonoBehaviour
 
         if (Hitpoints <= 0)
         {
-            Collapse();
+            Destroy(gameObject);
+           
         }
     }
 
-    private void Collapse()
-    {
-        Destroy(gameObject);
-        AudioPlayer.DestroyBlock();
-    }
 }

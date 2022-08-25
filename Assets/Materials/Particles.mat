@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Particles
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: b8431aee6be8ec6449ab0a42f759b3f4, type: 2}
+  m_Parent: {fileID: 2100002, guid: 9035d3bb8908b9145adff23935d61a87, type: 3}
   m_ModifiedSerializedProperties: 18
   m_ValidKeywords:
   - _ALPHABLEND_ON
